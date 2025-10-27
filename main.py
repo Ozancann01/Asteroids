@@ -1,7 +1,6 @@
-
 import pygame
 from constants import *
-from player import Player    # Correct class import
+from player import Player
 
 def main():
     print("Starting Asteroids!")
@@ -26,4 +25,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+ 
