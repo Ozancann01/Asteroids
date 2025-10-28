@@ -1,17 +1,16 @@
-A Asteroids game
+# Asteroids Game
 
+## Over het project
+Een klassiek Asteroids-spel gemaakt in Python met Pygame. Speel met een schip, schiet asteroïden en probeer zo lang mogelijk te overleven.
 
+## Functionaliteiten
+- Schiet kogels in de richting waar het schip naar kijkt  
+- Beweeg, roteer en vermijd asteroïden  
+- Score bijhouden en level management (toekomstige toevoegingen)  
+- Power-ups en verschillende wapens (gepland)  
+- Objecten die rond het scherm wikkelen (gepland)  
+- Meer gameplay features worden toegevoegd…
 
-what will be added : 
-  Add a scoring system
-  Implement multiple lives and respawning
-  Add an explosion effect for the asteroids
-  Add acceleration to the player movement
-  Make the objects wrap around the screen instead of disappearing
-  Add a background image
-  Create different weapon types
-  Make the asteroids lumpy instead of perfectly round
-  Make the ship have a triangular hit box instead of a circular one
-  Add a shield power-up
-  Add a speed power-up
-  Add bombs that can be dropped
+## Installatie
+1. Zorg dat Python 3.10+ geïnstalleerd is  
+2. Installeer Pygame via pip:
